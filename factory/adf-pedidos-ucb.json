@@ -1,0 +1,15 @@
+{
+	"name": "adf-pedidos-ucb",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1fefdf9d-6364-4ba9-ad80-796e3731f916",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
